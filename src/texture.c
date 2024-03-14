@@ -41,7 +41,7 @@ void WallTexturesready(void)
 }
 
 /**
- * freeWallTextures - textures free wall 
+ * freeWallTextures - textures free wall
  *
 */
 

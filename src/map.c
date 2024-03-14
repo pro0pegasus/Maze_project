@@ -21,7 +21,7 @@ static const int map[MAP_NUM_ROWS][MAP_NUM_COLS] = {
  * in the wall in the next player advance
  * @x: next x coordinate
  * @y: next y coordinate
- * Return: true if collision is detected, otherwise false 
+ * Return: true if collision is detected, otherwise false
 */
 
 bool DetectCollision(float x, float y)
@@ -41,7 +41,7 @@ bool DetectCollision(float x, float y)
  * isInsideMap - checking if continue within the map
  * @x: next x coordinate
  * @y: next y coordinate
- * @Return: true if it is within the map, otherwise false 
+ * @Return: true if it is within the map, otherwise false
 */
 
 bool isInsideMap(float x, float y)

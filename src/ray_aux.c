@@ -5,7 +5,7 @@
  * @x1: x starting point coordinate
  * @y1: y starting point coordinate
  * @x2: x end point coordinate
- * @y2: y end point coordinate 
+ * @y2: y end point coordinate
  * Return: the distance between two points
  */
 
